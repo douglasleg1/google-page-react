@@ -1,0 +1,24 @@
+.GeneralFooter{
+    display: flex;
+    flex-direction: column;
+}
+
+.Footer1{
+    background-color: #f2f2f2;
+    border-bottom: #DADCE0 solid 1px;
+}
+
+.Footer2{
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: row;
+}
+
+.middleDivFooter{
+    width: 500px;
+}
+
+.leftDivFooter{
+    display: flex;
+    flex-direction: row;
+}
