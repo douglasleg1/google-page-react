@@ -4,12 +4,12 @@
     list-style: none;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .HeaderMaster{
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 
 .divLeftHeader{
