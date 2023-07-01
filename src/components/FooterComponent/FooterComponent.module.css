@@ -5,12 +5,13 @@
     background-color: #f2f2f2;
     font-size: 14px;
     font-weight: 400;
-    margin-top: 41%;
+    margin-top: 37%;
 }
 
 .Footer1{
     border-bottom: #DADCE0 solid 1px;
     text-align: left;
+    height: 47px;
 }
 
 .Footer1 span{
@@ -24,6 +25,7 @@
 .Footer2{
     display: flex;
     flex-direction: row;
+    height: 47px;
 }
 
 .Footer2 span:hover{
